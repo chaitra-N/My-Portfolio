@@ -1,0 +1,33 @@
+
+
+body {
+	background-color: black;
+}
+h1{
+  font-family: Calibri;
+  color: white;
+  margin: 60px
+}
+h2{
+  font-family: Calibri;
+  color: white;
+  margin: 60px
+}
+.navigationBar{
+  background-color: blue;
+  overflow: hidden;
+  list-style-type: none;
+
+}
+.navigationBar a{
+  float: left;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 20px;
+  list-style-type: none;
+  margin: 0;
+  text-decoration: none;
+
+
+}
